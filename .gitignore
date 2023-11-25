@@ -1,2 +1,5 @@
 # ignore UF2 files
 *.uf2
+
+# ignore libraries file
+libraries/*
