@@ -9,7 +9,7 @@ Download the appropriate .UF2 file for your board from https://circuitpython.org
 ## Input stage
 
 I used an Alesis Nitro Mesh drum trigger, which outputs audio from an internal contact microphone. This requires an input stage to make the signal usable and to avoid damage to the Pico. I decided to make it as simple as possible using the passive design shown below:
-![[InputStage.PNG]]
+![InputStage.PNG]
 
 
 ## Warning
